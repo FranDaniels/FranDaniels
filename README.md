@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=FranDaniels&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
